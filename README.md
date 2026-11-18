@@ -1,20 +1,36 @@
 <div align="center">
   
-## 👨‍💻Érick Fernando
-**Desenvolvimento de Sistemas**
-
-`Desenvolvedor Front-end`, `Residência Full Stack 5.0`, `Desenvolvimento de Sistemas`, `Hackathon Tech + Saúde 2026`
-
-Me chamo Érick, 
+# 👨‍💻Érick Fernando
+`Desenvolvedor Front-end` `Residência Full Stack 5.0` `Desenvolvimento de Sistemas` `Hackathon Tech + Saúde 2026`
 
 </div>
 
 <br>
 
-### Tecnologias que estou estudando
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+Me chamo Érick, tenho 20 anos e sou natural de Sapucaia do Sul, cursando Técnico em Desenvolvimento de Sistemas pelo SENAC.
+Gosto muito da área da tecnologia e busco aumentar meu conhecimento cada vez mais através de desafios, cursos e projetos pessoias para aplicá-los no mercado de trabalho.
+
+<br>
+
+<br>
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Erick-FSR&custom_title=Meu%20Status%20do%20Github&show_icons=true&include_all_commits=true&theme=midnight-purple)](https://github-stats-extended.vercel.app/api?username=Erick-FSR&custom_title=Meu%20Status%20do%20Github&show_icons=true&include_all_commits=true&theme=midnight-purple)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Erick-FSR&layout=compact&langs_count=4&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=Erick-FSR&layout=compact&langs_count=4&theme=midnight-purple)
+
+
+
+
+
+
+<div>
+  
+<img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+                             
+</div>
+          
+          
 
 <br>
 
