@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
+  
+## 👨‍💻Érick Fernando
+**Desenvolvimento de Sistemas**
 
-<!--
-**Erick-FSR/Erick-FSR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`Desenvolvedor Front-end`, `Residência Full Stack 5.0`, `Desenvolvimento de Sistemas`, `Hackathon Tech + Saúde 2026`
 
-Here are some ideas to get you started:
+Desenvol
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+### Tecnologias que estou estudando
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+<br>
+
