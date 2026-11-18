@@ -5,7 +5,8 @@
 
 `Desenvolvedor Front-end`, `Residência Full Stack 5.0`, `Desenvolvimento de Sistemas`, `Hackathon Tech + Saúde 2026`
 
-Desenvol
+Me chamo Érick, 
+
 </div>
 
 <br>
