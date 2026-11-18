@@ -19,8 +19,7 @@ Gosto muito da área da tecnologia e busco aumentar meu conhecimento cada vez ma
 
 
 
-
-
+## STACK
 
 <div>
   
