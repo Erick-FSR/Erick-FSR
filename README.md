@@ -8,7 +8,7 @@
 <br>
 
 Me chamo Érick, tenho 20 anos e sou natural de Sapucaia do Sul, cursando Técnico em Desenvolvimento de Sistemas pelo SENAC.
-Gosto muito da área da tecnologia e busco aumentar meu conhecimento cada vez mais através de desafios, cursos e projetos pessoias para aplicá-los no mercado de trabalho.
+Gosto muito da área da tecnologia e busco aumentar meu conhecimento cada vez mais através de desafios, cursos e projetos pessoais para aplicá-los no mercado de trabalho.
 
 <br>
 
@@ -19,7 +19,7 @@ Gosto muito da área da tecnologia e busco aumentar meu conhecimento cada vez ma
 
 
 
-## STACK
+## STACKS
 
 <div>
   
@@ -28,8 +28,14 @@ Gosto muito da área da tecnologia e busco aumentar meu conhecimento cada vez ma
 <img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
                              
 </div>
-          
-          
-
 <br>
+<br>
+
+## CONTATO
+
+<div>
+<a href="https://www.linkedin.com/in/erickrodrigues06/" target="_blank">
+<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+</a>
+</div>
 
