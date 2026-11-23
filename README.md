@@ -28,6 +28,17 @@ Gosto muito da área da tecnologia e busco aumentar meu conhecimento cada vez ma
 <img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
                              
 </div>
+
+<div>
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Erick-FSR/Erick-FSR/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Erick-FSR/Erick-FSR/output/github-snake.svg">
+  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/Erick-FSR/Erick-FSR/output/github-snake.svg">
+</picture>
+
+</div>
+
 <br>
 <br>
 
@@ -41,13 +52,5 @@ Gosto muito da área da tecnologia e busco aumentar meu conhecimento cada vez ma
 <br>
 <br>
 
-<div>
-  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Erick-FSR/Erick-FSR/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Erick-FSR/Erick-FSR/output/github-snake.svg">
-  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/Erick-FSR/Erick-FSR/output/github-snake.svg">
-</picture>
 
-</div>
 
