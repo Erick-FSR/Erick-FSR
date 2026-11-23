@@ -38,4 +38,16 @@ Gosto muito da área da tecnologia e busco aumentar meu conhecimento cada vez ma
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
 </a>
 </div>
+<br>
+<br>
+
+<div>
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Erick-FSR/Erick-FSR/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Erick-FSR/Erick-FSR/output/github-snake.svg">
+  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/Erick-FSR/Erick-FSR/output/github-snake.svg">
+</picture>
+
+</div>
 
