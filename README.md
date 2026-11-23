@@ -48,6 +48,11 @@ Gosto muito da área da tecnologia e busco aumentar meu conhecimento cada vez ma
 <a href="https://www.linkedin.com/in/erickrodrigues06/" target="_blank">
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
 </a>
+
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=erick.f.rodrigues0@gmail.com" target="_blank">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335"
+       width="30" height="40" />
+</a>
 </div>
 <br>
 <br>
